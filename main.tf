@@ -9,3 +9,4 @@ resource "aws_s3_bucket" "resource_bucket" {
     Environment = var.environment
   }
 }
+## Alex has helped me
